@@ -1,0 +1,7 @@
+C:\Users\Carlos\Development\IPHelper\IPHelper\bin\Debug\IPHelper.dll
+C:\Users\Carlos\Development\IPHelper\IPHelper\bin\Debug\IPHelper.pdb
+C:\Users\Carlos\Development\IPHelper\IPHelper\obj\Debug\IPHelper.dll
+C:\Users\Carlos\Development\IPHelper\IPHelper\obj\Debug\IPHelper.pdb
+C:\Users\Carlos\Development\IPHelper\IPHelper\bin\Release\IPHelper.dll
+C:\Users\Carlos\Development\IPHelper\IPHelper\bin\Release\IPHelper.pdb
+C:\Users\Carlos\Development\IPHelper\IPHelper\obj\Debug\IPHelper.csprojResolveAssemblyReference.cache
